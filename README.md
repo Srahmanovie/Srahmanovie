@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srahmanovie
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently learning CS50 @ Harvard
 - 💞️ I’m looking to collaborate on github
 - 📫 saidurrahmanovie@gmail.com
 
